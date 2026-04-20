@@ -1,2 +1,2 @@
-city : Hyderabad
-city : Cochin
+city : Delhi
+city : Mumbai
